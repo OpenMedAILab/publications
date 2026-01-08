@@ -1,4 +1,4 @@
-## Recent Publication
+## Publications
 
 1. **Grounded report generation for enhancing ophthalmic ultrasound interpretation using Vision-Language Segmentation models**, *npj Digital Medicine*, 2026
 2. **Neovascularization Segmentation via a Multilateral Interaction-Enhanced Graph Convolutional Network**, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025
