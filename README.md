@@ -17,9 +17,8 @@
 
 ## Under Review
 
-1. **An Autonomous Multimodal AI Agent for Evidence-Grounded Ophthalmic Diagnosis**, *Nature Biomedical Engineering*, 2025
-2. **Video-to-Report Generation for Cataract Surgery Using Procedurally Grounded Vision–Language Models**, *Advanced Science*, 2025
-3. **EyeRAG: Graph Retrieval-Augmented Generation for Safe and Accurate Clinical Dialogue in Ophthalmology**, *npj Digital Medicine*, 2025
+1. **An Autonomous Multimodal AI Agent for Evidence-Grounded Ophthalmic Diagnosis**,  *Advanced Science*, 2025
+2. **EyeRAG: Graph Retrieval-Augmented Generation for Safe and Accurate Clinical Dialogue in Ophthalmology**, *npj Digital Medicine*, 2025
 
 
 ## Impact Factor
