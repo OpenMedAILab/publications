@@ -1,12 +1,15 @@
 ## Publications
+## 2026
+1. **Rethinking Scale in Ophthalmic Artificial Intelligence: From Bigger Models to Smarter Clinical Reasoning**, *npj Digital Medicine*, 2026
+2. **Grounded report generation for enhancing ophthalmic ultrasound interpretation using Vision-Language Segmentation models**, *npj Digital Medicine*, 2026
 
-1. **Grounded report generation for enhancing ophthalmic ultrasound interpretation using Vision-Language Segmentation models**, *npj Digital Medicine*, 2026
-2. **Neovascularization Segmentation via a Multilateral Interaction-Enhanced Graph Convolutional Network**, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025
-3. **Generative artificial intelligence for fundus fluorescein angiography interpretation and human expert evaluation**, *npj Digital Medicine*, 2025
-4. **Interpretable longitudinal glaucoma visual field estimation deep learning system from fundus images and clinical narratives**, *npj Digital Medicine*, 2025
-5. **A multimodal visual–language foundation model for computational ophthalmology**, *npj Digital Medicine*, 2025
-6. **Embodied artificial intelligence in ophthalmology**, *npj Digital Medicine*, 2025
-7. **EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**, *npj Digital Medicine*, 2025
+## 2025
+1. **Neovascularization Segmentation via a Multilateral Interaction-Enhanced Graph Convolutional Network**, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025
+2. **Generative artificial intelligence for fundus fluorescein angiography interpretation and human expert evaluation**, *npj Digital Medicine*, 2025
+3. **Interpretable longitudinal glaucoma visual field estimation deep learning system from fundus images and clinical narratives**, *npj Digital Medicine*, 2025
+4. **A multimodal visual–language foundation model for computational ophthalmology**, *npj Digital Medicine*, 2025
+5. **Embodied artificial intelligence in ophthalmology**, *npj Digital Medicine*, 2025
+6. **EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**, *npj Digital Medicine*, 2025
 
 ## Publications for Datasets
 
