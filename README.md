@@ -4,6 +4,9 @@
 2. **Grounded report generation for enhancing ophthalmic ultrasound interpretation using Vision-Language Segmentation models**, *npj Digital Medicine*, 2026
 3. **EyeRAG: Graph Retrieval-Augmented Generation for Safe and Accurate Clinical Dialogue in Ophthalmology**, *npj Digital Medicine*, 2026
 4. **An Autonomous Multimodal AI Agent for Evidence-Grounded Ophthalmic Diagnosis**,  *Cell Reports Medicine*, 2026 (accepted)
+5. **Domain-specific pretraining boosts diagnostic performance in ultra-widefield fundus imaging**, *Cell Reports Medicine*, 2026 
+6. **Toward a unified foundation model for medical imaging**, *Lancet Digital Health*, 2026
+7. **Large Language Models in Ophthalmic Publishing: From Detection to Accountable Disclosure**, *Ophthalmology*, 2026
    
 ## 2025
 1. **Neovascularization Segmentation via a Multilateral Interaction-Enhanced Graph Convolutional Network**, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025
@@ -33,4 +36,5 @@
 - **npj Digital Medicine** (Impact Factor: 15.1)
 - **Advanced Science** (Impact Factor: 14.1)
 - **Cell Reports Medicine** (Impact Factor: 10.6)
+- **Ophthalmology** (Impact Factor: 10.9) 
 - **Scientific Data** (Impact Factor: 6.9)
