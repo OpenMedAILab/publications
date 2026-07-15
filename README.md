@@ -31,6 +31,7 @@
 ## Impact Factor
 
 - **Nature Biomedical Engineering** (IF: 26.6)
+- **Lancet Digital Health** (IF: 24.5)
 - **IEEE TPAMI** (IF: 18.6)
 - **Progress in Retinal and Eye Research** (IF: 16)
 - **npj Digital Medicine** (Impact Factor: 15.1)
