@@ -3,10 +3,11 @@
 1. **Rethinking Scale in Ophthalmic Artificial Intelligence: From Bigger Models to Smarter Clinical Reasoning**, *npj Digital Medicine*, 2026
 2. **Grounded report generation for enhancing ophthalmic ultrasound interpretation using Vision-Language Segmentation models**, *npj Digital Medicine*, 2026
 3. **EyeRAG: Graph Retrieval-Augmented Generation for Safe and Accurate Clinical Dialogue in Ophthalmology**, *npj Digital Medicine*, 2026
-4. **An Autonomous Multimodal AI Agent for Evidence-Grounded Ophthalmic Diagnosis**,  *Cell Reports Medicine*, 2026 (accepted)
+4. **An Autonomous Multimodal AI Agent for Evidence-Grounded Ophthalmic Diagnosis**,  *Cell Reports Medicine*, 2026 
 5. **Domain-specific pretraining boosts diagnostic performance in ultra-widefield fundus imaging**, *Cell Reports Medicine*, 2026 
 6. **Toward a unified foundation model for medical imaging**, *Lancet Digital Health*, 2026
 7. **Large Language Models in Ophthalmic Publishing: From Detection to Accountable Disclosure**, *Ophthalmology*, 2026
+8. **Artificial Intelligence for Clinical Decision-Making in Retinal Disorders: From Multimodal Detection to Longitudinal Management**, *Progress in Retinal and Eye Research*, 2026 (accepted)
    
 ## 2025
 1. **Neovascularization Segmentation via a Multilateral Interaction-Enhanced Graph Convolutional Network**, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025
@@ -25,8 +26,8 @@
 
 ## Under Review
 
-1. **Toward Culturally and Linguistically Responsive Digital Eye Care: An Equity-by-Design Implementation Framework**, *npj Digital Medicine*, 2026
-2. **Artificial Intelligence for Clinical Decision-Making in Retinal Disorders: From Multimodal Detection to Longitudinal Management**, *Progress in Retinal and Eye Research*, 2026
+1. **FABLE-500: A Multimodal Ophthalmic Dataset for Benchmarking Vision-Language and Workflow-Based AI Systems**, *NEJM AI*, 2026
+   
 
 ## Impact Factor
 
